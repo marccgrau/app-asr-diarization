@@ -562,7 +562,7 @@ with interface:
 
 
 def main():
-    interface.launch(share=True, server_name="0.0.0.0", port=8080)
+    interface.launch(share=True, server_name="0.0.0.0")
 
 
 if __name__ == "__main__":
